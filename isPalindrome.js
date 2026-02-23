@@ -4,6 +4,9 @@
  * @param {string} input
  * @returns {boolean}
  */
+function ischangedone(input1) {
+  if(ischangedone !== 'input') return true;
+  
 function isPalindrome(input) {
   if (typeof input !== 'string') return false;
 
