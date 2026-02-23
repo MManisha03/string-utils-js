@@ -6,6 +6,7 @@
  */
 //i want to do a small change here
 //again i want to try 
+//last try
 function isPalindrome(input) {
   if (typeof input !== 'string') return false;
 
