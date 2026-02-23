@@ -4,6 +4,7 @@
  * @param {string} input
  * @returns {boolean}
  */
+//i want to do a small change here
 function isPalindrome(input) {
   if (typeof input !== 'string') return false;
 
